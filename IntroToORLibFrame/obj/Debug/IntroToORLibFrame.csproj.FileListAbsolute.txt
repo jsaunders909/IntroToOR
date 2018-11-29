@@ -1,0 +1,5 @@
+\\filestore.soton.ac.uk\users\jrs1g16\mydocuments\visual studio 2017\Projects\IntroToOR\IntroToORLibFrame\bin\Debug\IntroToORLibFrame.dll
+\\filestore.soton.ac.uk\users\jrs1g16\mydocuments\visual studio 2017\Projects\IntroToOR\IntroToORLibFrame\bin\Debug\IntroToORLibFrame.pdb
+\\filestore.soton.ac.uk\users\jrs1g16\mydocuments\visual studio 2017\Projects\IntroToOR\IntroToORLibFrame\obj\Debug\IntroToORLibFrame.csprojResolveAssemblyReference.cache
+\\filestore.soton.ac.uk\users\jrs1g16\mydocuments\visual studio 2017\Projects\IntroToOR\IntroToORLibFrame\obj\Debug\IntroToORLibFrame.dll
+\\filestore.soton.ac.uk\users\jrs1g16\mydocuments\visual studio 2017\Projects\IntroToOR\IntroToORLibFrame\obj\Debug\IntroToORLibFrame.pdb
